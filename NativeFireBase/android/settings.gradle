@@ -1,0 +1,3 @@
+rootProject.name = 'NativeFireBase'
+
+include ':app'
